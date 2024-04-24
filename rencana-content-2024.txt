@@ -4,6 +4,7 @@ RENCANA CONTENT 2024
  * Tiktok
  * Instagram 
    ^ Vue
+   ^ 1 minute video
 - Vlog
   ^ 10 minute video
 - Cinematic
