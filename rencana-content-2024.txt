@@ -3,7 +3,8 @@ RENCANA CONTENT 2024
 - Short video
  * Tiktok
  * Instagram
+  ^ Angular
+  ^ 1 minute video
 - Vlog
-- Cinematic
- * Wehwehwheh
+  ^ 10 minute video
 - Interview
